@@ -1,6 +1,9 @@
 # coffee_app
 
-A new Flutter project.
+Screenshot of Ui.
+
+![Screenshot](https://user-images.githubusercontent.com/66769129/180626910-1c4ea547-d0d6-4a19-be49-a101db4b91a1.png)
+
 
 ## Getting Started
 
